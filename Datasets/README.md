@@ -20,3 +20,13 @@
 - D4: Exceptional Drought
 - ValidStart: Start of data collection
 - ValidEnd: End of data collection
+
+## Snow_water_content_010122_032626.csv
+- STATION_ID: where SWD is Statewide Region Snow
+- DURATION: Daily or Monthly
+- SENSOR_TYPE: where SNWCAVG is Snow Water Content Average
+- DATE TIME: YYYYMMDD TTTT
+- OBS DATE: Observation Date
+- VALUE: Snow Water Content
+- DATA_FLAG: Data Validation
+- UNITS: Inches
